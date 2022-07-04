@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.92;}
+	
+		.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#C3F4FD;stroke:#334155;stroke-width:2.27;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7;}
+	
+		.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#155E75;stroke:#334155;stroke-width:2.27;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7;}
+	
+		.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#475569;stroke:#334155;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:35.1628;}
+	
+		.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#64748B;stroke:#334155;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:35.1628;}
+</style>
+<g transform="matrix(1,0,0,1,-1259.52,-529.088)">
+	<g id="Ethereum" class="st0">
+		<g id="Bottom">
+			<g id="Purple2" transform="matrix(1.08181,0,0,-1.03277,-108.829,1366.48)">
+				<path class="st1" d="M2475,221.3L2151.6-228V24.3L2475,221.3z"/>
+			</g>
+			<g id="Yellow2" transform="matrix(-1.08181,0,0,-1.03277,2769.57,1366.48)">
+				<path class="st2" d="M832.5,221.3L509.1-228V24.3L832.5,221.3z"/>
+			</g>
+		</g>
+		<g id="Top">
+			<g id="Blue1" transform="matrix(-1,0,0,1,2659.32,-0.0263692)">
+				<path class="st3" d="M790.5,1084.2L440.6,928.6v354.7L790.5,1084.2z"/>
+			</g>
+			<g id="Purple1" transform="matrix(1,0,0,1,1.41643,-0.0263692)">
+				<path class="st4" d="M2567.3,1084.2l-349.9-155.6v354.7L2567.3,1084.2z"/>
+			</g>
+			<g id="Yellow1" transform="matrix(-1.08181,0,0,1.03277,2769.57,-93.5314)">
+				<path class="st2" d="M832.5,1140.3L509.1,608.7v381L832.5,1140.3z"/>
+			</g>
+			<g id="Green1" transform="matrix(1.08181,0,0,1.03277,-108.829,-93.5314)">
+				<path class="st1" d="M2475,1140.3l-323.4-531.6v381L2475,1140.3z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
